@@ -20,6 +20,7 @@ This sales predicting/forecasting model is widely used in **Each Industries and 
 # Dataset for Training Model
 
 [train.csv](https://github.com/mokshverma-dev/Big-mart-data-sales-prediction-by-using-XGBoost/blob/main/Train.csv)
+
 [test.csv](https://github.com/mokshverma-dev/Big-mart-data-sales-prediction-by-using-XGBoost/blob/main/Test.csv)
 
 ## Tech Stack
@@ -36,6 +37,7 @@ This sales predicting/forecasting model is widely used in **Each Industries and 
 Here are some related projects
 
 [Loan Approval Prediction Model](https://github.com/mokshverma-dev/loan-approval-prediction-model)
+
 [Customer Churn Analysis & Prediction](https://github.com/mokshverma-dev/customer-churn-analysis-and-prediction)
 
 
